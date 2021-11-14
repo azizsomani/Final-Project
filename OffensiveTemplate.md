@@ -173,6 +173,6 @@ $ sudo python -c ‘import pty;pty.spawn(“/bin/bash”)’
     - **Command:** `ls`  
     - **Command:** `cat flag4.txt`
   - Screenshot of `Flag 4`:  
-![Flag 4]((images/flag4.png))
+![Flag 4](images/flag4.png)
 
 ### Submitted By - Aziz Somani
